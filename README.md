@@ -1,2 +1,1 @@
-# Instagram-clone
-Instagram clone using flutter
+# Travel app using flutter
